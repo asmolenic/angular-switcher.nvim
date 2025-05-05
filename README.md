@@ -1,1 +1,1 @@
-# angular-switcher
+# angular-switcher.nvim
